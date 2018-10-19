@@ -5,3 +5,10 @@ Pretty self explanatory, provide the processit function with the correct argumen
 2. if randomzoom=True
   Randomly zoom on detected face
   
+Examples
+
+# Face Only with a low alpha (preferring edited image)
+![](Face Only.gif)
+
+# Whole Frame with a high alpha (preferring original image)
+![](WholeFrame.gif)
