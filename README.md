@@ -8,7 +8,7 @@ Pretty self explanatory, provide the processit function with the correct argumen
 Examples
 
 # Face Only with a low alpha (preferring edited image)
-![](Face Only.gif)
+![](Face_Only.gif)
 
 # Whole Frame with a high alpha (preferring original image)
 ![](WholeFrame.gif)
